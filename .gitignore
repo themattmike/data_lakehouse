@@ -1,0 +1,11 @@
+```gitignore
+# Python cache files
+_pycache_/
+*.pyc
+
+# Environment variables and secrets
+.env
+
+# Temporary files
+*.tmp
+```
