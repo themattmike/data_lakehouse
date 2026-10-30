@@ -48,7 +48,7 @@ The project uses CSV source files, including CRM data, to demonstrate data inges
 
 ```text
 .
-├── scripts/
+├── script/
 │   ├── bronze/
 │   ├── silver/
 │   └── gold/
