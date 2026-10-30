@@ -60,3 +60,14 @@ The project uses CSV source files, including CRM data, to demonstrate data inges
 ## Project Status
 
 This project is being developed incrementally as I build and expand the lakehouse pipeline and apply additional data engineering concepts.
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+
+## About Me
+
+Hi there! I'm **Matthew Michel**, a DPT transitioning into the world of data engineering. I'm passionate about learning how data is collected, transformed, stored, and used to solve real-world problems.
+
+I'm using this repository to document my projects, demonstrate my technical skills, and continue building my experience in data engineering.
